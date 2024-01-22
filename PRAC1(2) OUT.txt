@@ -1,0 +1,2 @@
+Enter the Fahrenheit temperature: 70
+21.11111111111111 Celsius

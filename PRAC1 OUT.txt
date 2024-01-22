@@ -1,0 +1,2 @@
+Enter the degree-c: 43
+109.4 f
